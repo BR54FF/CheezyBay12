@@ -100,7 +100,7 @@
 	var/static/vote_autogamemode_timeleft = 100
 
 	/// Length of time before round start (in seconds)
-	var/static/pre_game_time = 180
+	var/static/pre_game_time = 600
 
 	/// vote does not default to nochange/norestart (tbi)
 	var/static/vote_no_default = FALSE
